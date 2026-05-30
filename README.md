@@ -1,6 +1,6 @@
 # Model deployment via FastAPI
 
-A brief description of what this project does and who it's for.
+The project is a simple illustration about how to deploy a pre-trained Neural Network model. The model considered is the one developed in the repository "Call_prediction".
 
 ## Features
 
