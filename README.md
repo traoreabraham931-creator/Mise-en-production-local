@@ -1,4 +1,4 @@
-# My Project
+# Model deployment via FastAPI
 
 A brief description of what this project does and who it's for.
 
