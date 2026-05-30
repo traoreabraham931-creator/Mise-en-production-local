@@ -2,11 +2,6 @@
 
 The project is a simple illustration about how to deploy a pre-trained Neural Network model. The model considered is the one developed in the repository "Call_prediction".
 
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Installation
 
