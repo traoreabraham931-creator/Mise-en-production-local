@@ -27,7 +27,9 @@ git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.g
 ```
 
 ## Creation of the container allowing to deploy the model
-
+```bash
+./launch-docker.sh
+```
 
 ## License
 
