@@ -38,9 +38,11 @@ Should no specific issue occur, one will see a picture similar to this:
 
 <img width="1459" height="768" alt="Capture d’écran 2026-05-31 à 10 35 50" src="https://github.com/user-attachments/assets/8878103d-f44d-419f-a257-cc3672178475" />
 
-## License
+## Perform serving
 
-This project is licensed under the MIT License.
+The serving is about using a pre-trained model to perform predictions in a production environment. With FastAPI, we proceed as follows:
+
+
 
 ## Contact
 
