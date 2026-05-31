@@ -42,7 +42,9 @@ Should no specific issue occur, one will see a picture similar to this:
 
 The serving is about using a pre-trained model to perform predictions in a production environment. With FastAPI, we proceed as follows:
 
-
+- Fix the values for the independent variables:
+  <img width="1458" height="772" alt="Capture d’écran 2026-05-31 à 10 45 10" src="https://github.com/user-attachments/assets/5781afb1-9f3e-4b39-b95c-75e32ebf5687" />
+- Click on the button execute.
 
 ## Contact
 
