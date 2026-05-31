@@ -30,6 +30,9 @@ git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.g
 ```bash
 ./launch-docker.sh
 ```
+## Checking
+
+In a browser, type: http://0.0.0.0:8000/docs
 
 ## License
 
