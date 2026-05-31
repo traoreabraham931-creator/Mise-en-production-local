@@ -8,8 +8,7 @@ The project is a simple illustration about how to deploy a pre-trained Neural Ne
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/my-project.git
-cd my-project
+git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.git
 ```
 
 Install dependencies:
