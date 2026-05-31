@@ -26,7 +26,7 @@ git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.g
 
 ```
 
-## Contributing
+## 
 
 1. Fork the repository.
 2. Create a feature branch:
