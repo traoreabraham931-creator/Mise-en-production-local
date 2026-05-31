@@ -48,10 +48,3 @@ The serving is about using a pre-trained model to perform predictions in a produ
 - The output of the model is displayed in the section of the webpage dedicated to the response of the server;
   <img width="1414" height="314" alt="Capture d’écran 2026-05-31 à 10 49 45" src="https://github.com/user-attachments/assets/a9966dbf-a9f3-4b7f-82e5-5dff84b52e72" />
 
-
-## Contact
-
-For questions or feedback, contact:
-
-- Email: your.email@example.com
-- GitHub: username
