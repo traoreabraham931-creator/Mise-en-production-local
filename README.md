@@ -34,6 +34,10 @@ git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.g
 
 In a browser, type: http://0.0.0.0:8000/docs
 
+Should no specific issue occur, one will see a picture similar to this:
+
+<img width="1459" height="768" alt="Capture d’écran 2026-05-31 à 10 35 50" src="https://github.com/user-attachments/assets/8878103d-f44d-419f-a257-cc3672178475" />
+
 ## License
 
 This project is licensed under the MIT License.
