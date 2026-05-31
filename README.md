@@ -14,13 +14,16 @@ git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.g
 ## Project Structure
 
 ```
-my-project/
-├── src/
+├── app/
 │   ├── index.js
 │   └── utils.js
-├── tests/
-├── package.json
+├── models/
+│   ├── custom_attention.weights.h5 # weights of the trained model
+├── Dockerfile                      # Dockerfile
+├── launch-docker.sh                # sh file to build the docker container allowing to deploy the model
+├── requirements.txt                # requirement file containing the necessary libraries
 └── README.md
+
 ```
 
 ## Contributing
