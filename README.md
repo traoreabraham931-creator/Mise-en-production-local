@@ -11,35 +11,6 @@ Clone the repository:
 git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.git
 ```
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-## Usage
-
-Start the application:
-
-```bash
-npm start
-```
-
-Example:
-
-```bash
-npm start -- --port 3000
-```
-
-## Configuration
-
-Create a `.env` file in the project root:
-
-```env
-API_KEY=your_api_key_here
-PORT=3000
-```
-
 ## Project Structure
 
 ```
