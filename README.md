@@ -15,8 +15,8 @@ git clone https://github.com/traoreabraham931-creator/Mise-en-production-local.g
 
 ```
 ├── app/
-│   ├── index.js
-│   └── utils.js
+│   ├── library.py
+│   └── main.py
 ├── models/
 │   ├── custom_attention.weights.h5 # weights of the trained model
 ├── Dockerfile                      # Dockerfile
